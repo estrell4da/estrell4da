@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.behance.net/oliviaetchega" target="_blank">
+  <a href="[https://www.behance.net/oliviaetchega](https://www.behance.net/gallery/232958061/PORTFOLIO-Multimedia-Designer-2025)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
   <a href="www.youtube.com/@estrella-r9e?si=KuIqUkyfIQzZ1p1H&fbclid=PAZXh0bgNhZW0CMTEAAadj8ChXFvpPNvJs9GsVCxn4sxi_91PBG7S4XSocy-mn6LgCXrOAiU6a_3xXGg_aem_QRv6SxTgQ-clFx38MMKE8A" target="_blank">
