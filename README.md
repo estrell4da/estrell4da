@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Estudio Diseño Multimedial y me encanta ir más allá de la carrera: exploro el código como una herramienta creativa para construir ideas cada vez más originales.<br><br>Actualmente estoy aprendiendo más sobre TypeScript y Python, con el objetivo de mejorar mi back-end y ampliar lo que puedo imaginar (¡y programar!).<br><br>Me interesa experimentar, mezclar diseño con interactividad y buscar nuevas formas de comunicar desde lo visual y lo técnico, intentando que cada proyecto sea más creativo que el anterior ✨<br><br>Estoy construyendo este espacio como un portfolio en constante evolución.<br>Te invito a recorrerlo con curiosidad 🌈</p>
+<p align="left">Exploro el código como una herramienta creativa para construir ideas.<br><br>Actualmente estoy aprendiendo más sobre TypeScript y Python, con el objetivo de mejorar mi back-end y ampliar lo que puedo imaginar.<br><br>Estoy construyendo este espacio como un portfolio en constante evolución.<br>
 
 ###
 
@@ -36,7 +36,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
